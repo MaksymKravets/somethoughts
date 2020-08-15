@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/somethoughts/static/css/main.4832b49a.chunk.css",
+    "main.js": "/somethoughts/static/js/main.76fc13bc.chunk.js",
+    "main.js.map": "/somethoughts/static/js/main.76fc13bc.chunk.js.map",
+    "runtime-main.js": "/somethoughts/static/js/runtime-main.e5ac83e3.js",
+    "runtime-main.js.map": "/somethoughts/static/js/runtime-main.e5ac83e3.js.map",
+    "static/js/2.d5c47d6c.chunk.js": "/somethoughts/static/js/2.d5c47d6c.chunk.js",
+    "static/js/2.d5c47d6c.chunk.js.map": "/somethoughts/static/js/2.d5c47d6c.chunk.js.map",
+    "static/css/3.1baa78c0.chunk.css": "/somethoughts/static/css/3.1baa78c0.chunk.css",
+    "static/js/3.9d9d0085.chunk.js": "/somethoughts/static/js/3.9d9d0085.chunk.js",
+    "static/js/3.9d9d0085.chunk.js.map": "/somethoughts/static/js/3.9d9d0085.chunk.js.map",
+    "static/css/4.8b07abb0.chunk.css": "/somethoughts/static/css/4.8b07abb0.chunk.css",
+    "static/js/4.5912179a.chunk.js": "/somethoughts/static/js/4.5912179a.chunk.js",
+    "static/js/4.5912179a.chunk.js.map": "/somethoughts/static/js/4.5912179a.chunk.js.map",
+    "static/css/5.7ed29435.chunk.css": "/somethoughts/static/css/5.7ed29435.chunk.css",
+    "static/js/5.bc43ab9c.chunk.js": "/somethoughts/static/js/5.bc43ab9c.chunk.js",
+    "static/js/5.bc43ab9c.chunk.js.map": "/somethoughts/static/js/5.bc43ab9c.chunk.js.map",
+    "index.html": "/somethoughts/index.html",
+    "precache-manifest.930e86e31792cc40ecc2799c11bb3249.js": "/somethoughts/precache-manifest.930e86e31792cc40ecc2799c11bb3249.js",
+    "service-worker.js": "/somethoughts/service-worker.js",
+    "static/css/3.1baa78c0.chunk.css.map": "/somethoughts/static/css/3.1baa78c0.chunk.css.map",
+    "static/css/4.8b07abb0.chunk.css.map": "/somethoughts/static/css/4.8b07abb0.chunk.css.map",
+    "static/css/5.7ed29435.chunk.css.map": "/somethoughts/static/css/5.7ed29435.chunk.css.map",
+    "static/css/main.4832b49a.chunk.css.map": "/somethoughts/static/css/main.4832b49a.chunk.css.map",
+    "static/js/2.d5c47d6c.chunk.js.LICENSE.txt": "/somethoughts/static/js/2.d5c47d6c.chunk.js.LICENSE.txt",
+    "static/js/4.5912179a.chunk.js.LICENSE.txt": "/somethoughts/static/js/4.5912179a.chunk.js.LICENSE.txt",
+    "static/media/pngwave.png": "/somethoughts/static/media/pngwave.cfbd15d8.png",
+    "static/media/tail-spin.svg": "/somethoughts/static/media/tail-spin.a75a5f09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5ac83e3.js",
+    "static/js/2.d5c47d6c.chunk.js",
+    "static/css/main.4832b49a.chunk.css",
+    "static/js/main.76fc13bc.chunk.js"
+  ]
+}
